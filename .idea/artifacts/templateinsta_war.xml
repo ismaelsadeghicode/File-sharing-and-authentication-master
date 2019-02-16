@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="templateinsta:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="File_sharing_and_authentication.war">
+      <element id="artifact" artifact-name="templateinsta:war exploded" />
+    </root>
+  </artifact>
+</component>
